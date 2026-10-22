@@ -1,0 +1,13 @@
+# 大文件 / 生成物
+*.iso
+*.log
+/tmp/
+
+# 备份
+*.bak
+*.bak-*
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
